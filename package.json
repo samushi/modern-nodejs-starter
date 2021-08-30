@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Samushi NodeJS modern starter",
   "main": "index.js",
-  "repository": "https://github.com/samushi/modern-nodejs",
+  "repository": "https://github.com/samushi/modern-nodejs-starter",
   "author": "Sami Maxhuni",
   "license": "MIT",
   "scripts": {
