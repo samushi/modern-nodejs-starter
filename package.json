@@ -1,9 +1,9 @@
 {
-  "name": "modern-nodejs-starter",
+  "name": "nodejs-typeorm",
   "version": "1.0.0",
-  "description": "Samushi NodeJS modern starter",
+  "description": "Typeorm NodeJS Project Starter",
   "main": "index.js",
-  "repository": "https://github.com/samushi/modern-nodejs-starter",
+  "repository": "https://github.com/samushi/nodejs-typeorm",
   "author": "Sami Maxhuni",
   "license": "MIT",
   "scripts": {
